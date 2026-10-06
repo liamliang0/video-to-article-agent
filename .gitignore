@@ -1,0 +1,13 @@
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+cookies.txt
+work/
+outputs/
+models/
+bot.log*
+.cache/
+*.tmp
+downloads/
